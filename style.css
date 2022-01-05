@@ -67,3 +67,28 @@ padding-left: 5px;}
 .sec1-div1st-half h2{
     margin-top: 100px;
 }
+
+
+.porject-pic {
+    width: 59%;
+    padding-left: 31%;
+    margin-bottom: 60px;
+}
+
+
+footer{background-color: black;
+    color: white;
+    padding: 25px 0px;
+    text-align: center;}
+footer p{color: rgb(228, 215, 215);
+display: inline-block;}
+
+footer h2{
+    text-align: center;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;}
+
+footer span {
+    color: tomato;
+}    
