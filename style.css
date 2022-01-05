@@ -1,26 +1,27 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+section{
+    display: flex;
+    width: 1150px;
+    margin:auto;
+}
 h1{font-size: 50px;}
 p{font-size: 22px;
     text-align: justify;}
-section{
-    display: flex;
-}
 .div-half{
     width: 50%;
 }
 .first-sec-pic {
-    width: 60%;
-   }
-#sec1-div1st-half{
-    margin:100px 200px;
+    width: 76%;
+    padding-left: 80px;
 }
 .line-design{
     border-left: 5px solid;
     border-image: linear-gradient(red, #9f890c);
     border-image-slice: 1;
     padding-left: 10px;
+    margin-top: 150px;
 }
 span{color:cornflowerblue}
 #sec1-div1st-half p {width: 500px; 
