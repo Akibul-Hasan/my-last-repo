@@ -1,3 +1,40 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+h1{font-size: 50px;}
+p{font-size: 22px;
+    text-align: justify;}
+section{
+    display: flex;
+}
+.div-half{
+    width: 50%;
+}
+.first-sec-pic {
+    width: 60%;
+   }
+#sec1-div1st-half{
+    margin:100px 200px;
+}
+.line-design{
+    border-left: 5px solid;
+    border-image: linear-gradient(red, #9f890c);
+    border-image-slice: 1;
+    padding-left: 10px;
+}
+span{color:cornflowerblue}
+#sec1-div1st-half p {width: 500px; 
+    margin-bottom: 40px;
+    }
+a {
+    text-decoration: none;
+    color: black;
+    background-color: rgb(22, 144, 153);
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 15px;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 15px;    
+}
